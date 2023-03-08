@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
+    // Program Bilangan Prima
     print("Masukan Angka : ")
     val input = readln().toInt()
 
